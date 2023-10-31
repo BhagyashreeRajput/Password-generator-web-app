@@ -1,1 +1,1 @@
-# Password-genrator-web-app
+# Password-generator-web-app
